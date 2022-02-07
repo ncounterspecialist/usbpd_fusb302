@@ -4,3 +4,4 @@ Look at recommneded settings present in ProjectSettings Folder. There are timing
 
 Timeout logic used doesn't work everytime and sometimes it timeout faster than needed. This results in resetting the Source again and again.
  # usbpd_fusb302
+# usbpd_fusb302
