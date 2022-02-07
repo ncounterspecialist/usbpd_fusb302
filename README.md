@@ -6,3 +6,4 @@ Timeout logic used doesn't work everytime and sometimes it timeout faster than n
  # usbpd_fusb302
 # usbpd_fusb302
 # usbpd_fusb302
+# usbpd_fusb302
