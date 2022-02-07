@@ -1,0 +1,11 @@
+dpm.c:40:6:DPM_Init	16	static
+dpm.c:48:6:DPM_AddPort	16	static
+dpm.c:53:18:DPM_GetSourceCapHeader	16	static
+dpm.c:61:18:DPM_GetSinkCapHeader	16	static
+dpm.c:69:17:DPM_GetSourceCap	16	static
+dpm.c:77:17:DPM_GetSinkCap	16	static
+dpm.c:85:10:DPM_TransitionSource	32	static
+dpm.c:124:10:DPM_IsSourceCapEnabled	32	static
+dpm.c:157:9:DPM_SpecRev	16	static
+dpm.c:176:6:DPM_SetSpecRev	16	static
+dpm.c:208:8:DPM_Retries	24	static

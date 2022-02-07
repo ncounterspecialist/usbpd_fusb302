@@ -1,0 +1,14 @@
+platform.c:42:6:platform_set_vbus_lvl_enable	24	static
+platform.c:81:10:platform_get_vbus_lvl_enable	24	static
+platform.c:112:6:platform_set_pps_voltage	16	static
+platform.c:136:9:platform_get_pps_voltage	16	static
+platform.c:147:6:platform_set_pps_current	16	static
+platform.c:163:9:platform_get_pps_current	16	static
+platform.c:175:6:platform_set_vbus_discharge	16	static
+platform.c:202:10:platform_get_device_irq_state	16	static
+platform.c:230:10:platform_i2c_write	48	static
+platform.c:263:10:platform_i2c_read	48	static
+platform.c:286:6:platform_delay_10us	16	static
+platform.c:297:6:platform_delay	24	static
+platform.c:312:9:platform_get_system_time	4	static
+platform.c:324:9:platform_get_log_time	4	static

@@ -1,0 +1,9 @@
+Port.c:36:6:PortInit	24	static
+Port.c:68:6:SetTypeCState	16	static
+Port.c:79:6:SetPEState	16	static
+Port.c:98:13:SetPortDefaultConfiguration	16	static
+Port.c:187:6:InitializeRegisters	24	static
+Port.c:216:6:InitializeTypeCVariables	16	static
+Port.c:259:6:InitializePDProtocolVariables	16	static
+Port.c:264:6:InitializePDPolicyVariables	16	static
+Port.c:311:6:SetConfiguredCurrent	16	static

@@ -1,0 +1,9 @@
+usbd_desc.c:115:10:USBD_HID_DeviceDescriptor	16	static
+usbd_desc.c:127:10:USBD_HID_LangIDStrDescriptor	16	static
+usbd_desc.c:139:10:USBD_HID_ProductStrDescriptor	16	static
+usbd_desc.c:151:10:USBD_HID_ManufacturerStrDescriptor	16	static
+usbd_desc.c:163:10:USBD_HID_SerialStrDescriptor	16	static
+usbd_desc.c:179:10:USBD_HID_ConfigStrDescriptor	16	static
+usbd_desc.c:191:10:USBD_HID_InterfaceStrDescriptor	16	static
+usbd_desc.c:202:13:Get_SerialNum	24	static
+usbd_desc.c:226:13:IntToUnicode	32	static

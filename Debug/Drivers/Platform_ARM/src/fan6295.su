@@ -1,0 +1,4 @@
+fan6295.c:37:6:FAN6295_Initialize	16	static
+fan6295.c:44:6:FAN6295_SetEnable	24	static
+fan6295.c:51:6:FAN6295_SetVoltage	24	static
+fan6295.c:62:6:FAN6295_SetILimit	40	static

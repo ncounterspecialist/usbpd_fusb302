@@ -1,0 +1,3 @@
+observer.c:40:10:register_observer	32	static
+observer.c:58:6:remove_observer	32	static
+observer.c:84:6:notify_observers	40	static

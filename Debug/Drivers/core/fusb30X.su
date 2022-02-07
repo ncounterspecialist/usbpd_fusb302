@@ -1,0 +1,2 @@
+fusb30X.c:20:10:DeviceWrite	40	static
+fusb30X.c:27:10:DeviceRead	40	static

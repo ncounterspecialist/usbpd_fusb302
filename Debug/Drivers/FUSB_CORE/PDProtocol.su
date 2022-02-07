@@ -1,0 +1,16 @@
+PDProtocol.c:34:6:USBPDProtocol	16	static
+PDProtocol.c:91:6:ProtocolSendCableReset	16	static
+PDProtocol.c:112:6:ProtocolIdle	16	static
+PDProtocol.c:190:6:ProtocolResetWait	16	static
+PDProtocol.c:199:6:ProtocolGetRxPacket	32	static
+PDProtocol.c:512:6:ProtocolTransmitMessage	32	static
+PDProtocol.c:684:6:ProtocolSendingMessage	16	static
+PDProtocol.c:722:6:ProtocolVerifyGoodCRC	32	static
+PDProtocol.c:802:9:DecodeSopFromPdMsg	16	static
+PDProtocol.c:819:6:ProtocolSendGoodCRC	16	static
+PDProtocol.c:833:6:ProtocolLoadSOP	16	static
+PDProtocol.c:862:6:ProtocolLoadEOP	16	static
+PDProtocol.c:869:6:ProtocolSendHardReset	24	static
+PDProtocol.c:884:6:ProtocolFlushRxFIFO	24	static
+PDProtocol.c:890:6:ProtocolFlushTxFIFO	24	static
+PDProtocol.c:896:6:ResetProtocolLayer	24	static

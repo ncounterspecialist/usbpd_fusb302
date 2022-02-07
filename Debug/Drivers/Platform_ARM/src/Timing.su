@@ -1,0 +1,6 @@
+Timing.c:22:6:InitializeTickTimer	8	static
+Timing.c:50:6:EnableTickTimer	16	static
+Timing.c:63:6:SetTimeInterrupt	16	static
+Timing.c:73:6:ClearTimeInterrupt	4	static
+Timing.c:80:6:InitializeTSTimer	4	static
+Timing.c:103:6:EnableTSTimer	16	static
