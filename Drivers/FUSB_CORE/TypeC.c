@@ -1865,7 +1865,7 @@ void UpdateCurrentAdvert(Port_t *port, USBTypeCCurrent Current)
 
 FSC_BOOL VbusVSafe0V(Port_t *port)
 {
-    return (!isVBUSOverVoltage(port, VBUS_MV_VSAFE0V)) ? TRUE : FALSE;
+    return TRUE;// Pankaj(!isVBUSOverVoltage(port, VBUS_MV_VSAFE0V)) ? TRUE : FALSE;
 }
 
 FSC_BOOL isVSafe5V(Port_t *port)

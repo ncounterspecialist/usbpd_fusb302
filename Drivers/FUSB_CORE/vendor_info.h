@@ -42,8 +42,8 @@
 /* VIF Product */
 #define Connector_Type 2              /* 0: Type-A, 1: Type-B, 2: Type-C */
 #define USB_PD_Support YES
-#define PD_Port_Type 0                /* 0: C, 1: C/P, 2: P/C, 3: P, 4: DRP */
-#define Type_C_State_Machine 1        /* 0: Src, 1: Snk, 2: DRP */
+#define PD_Port_Type 3                /* 0: C, 1: C/P, 2: P/C, 3: P, 4: DRP */
+#define Type_C_State_Machine 0        /* 0: Src, 1: Snk, 2: DRP */
 #define Port_Battery_Powered NO
 #define BC_1_2_Support 0
 
